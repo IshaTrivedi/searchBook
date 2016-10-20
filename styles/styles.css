@@ -1,0 +1,42 @@
+ul.book-details{
+    list-style: none;
+    float: left;
+    width: 100%;
+    padding:0;
+}
+
+ul.book-details li{
+    float: left;
+    width: 100%;
+    margin: 5px 0;
+    text-transform: capitalize;
+}
+ul.book-details li label{
+    float: left;
+    text-align: right;
+    width: 150px;
+    margin-right: 40px;
+}
+ul.book-details li span{
+    float: left;
+    text-align: center;
+}
+.offset-img{
+    width:65%;
+}
+ul.book-details li p{
+    float: left;
+}
+ul.book-details li p span{
+    float: left;
+    clear: left;
+}
+.offset-15{
+    margin: 15px 0;
+}
+.offset-0{
+    padding: 0!important;
+}
+.list-group-item h2{
+    margin-bottom: 20px;
+}
